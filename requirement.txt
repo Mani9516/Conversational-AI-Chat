@@ -1,4 +1,4 @@
-python-3.12.2
+python-3.11.1
 numpy==1.26.4
 torch==2.2.2
 transformers==4.40.0
