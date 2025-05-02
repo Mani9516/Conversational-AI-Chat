@@ -1,7 +1,1 @@
-python
-numpy
-os
-torch
-transformers
-time
-streamlit
+pip install numpy==1.26.4 torch==2.2.2 transformers==4.40.1 streamlit==1.34.0
